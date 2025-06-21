@@ -2,6 +2,9 @@
 
 This project is a simple conversational AI **Chatbot** built with **Streamlit**, powered by **LangChain** and **Groq's Llama 3.1 model**. It supports ongoing conversation memory, so you can chat with it naturally, and all messages are displayed interactively on the web interface.
 
+![Chatbot Screenshot](https://github.com/aashiq-q/Ai_ChatBot/blob/main/ChatBot_Image.png)
+
+
 ---
 
 ## ✨ **Features**
