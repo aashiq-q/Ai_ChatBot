@@ -54,9 +54,13 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ Configure your .env file
-Create a .env file in your project root and add your Groq API key:
+Create a .env file in your project root and add your Groq API key or Any other LLM API Key:
 ```
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY=your_groq_api_key_here 
+```
+or
+```
+OPENAI_API_KEY = your_openai_api_key_here
 ```
 Important:
 Add .env to your .gitignore to keep your API key secret.
